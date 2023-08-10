@@ -14,6 +14,7 @@ h1 {
 .download-container {
     display: flex;
     justify-content: center;
+    gap: 10px;
 }
 
 .download-button {
