@@ -1,6 +1,10 @@
-@media (max-width: 1500px) {
+@media (max-width: 1400px) {
+    .card-content {
+        flex-direction: column;
+    }
+
     .card-content img {
-        width: 0;
+        margin: auto;
     }
 }
 
@@ -31,15 +35,17 @@
 .card-content
 {
     display: flex;
+    align-items:start;
     gap: 30px;
     margin-top: 20px;
 }
 
 .card-content img 
 {
-    max-width: 40%;
+    height: 180px;
+    width: 320px;
     border-radius: 20px;
-    object-fit: cover;
+    object-fit: fill;
 }
 
 .card-content h2
