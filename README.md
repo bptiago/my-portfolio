@@ -1,5 +1,7 @@
 # My Portfolio!
 
+GitHub deploy: https://bptiago.github.io/portfolio-in/
+
 Hello there! I'm Tiago, a brazillian student of Information Systems at PUCPR. I'm excited to share a glimpse of my portfolio with you.
 
 I am driven by a passion for knowledge and problem-solving, always seeking opportunities to learn and grow in this ever-evolving field. As I continue my journey in the world of technology, I look forward to exploring new tools and making meaningful contributions to this niche.
